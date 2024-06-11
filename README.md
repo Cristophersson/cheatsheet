@@ -1,3 +1,3 @@
-- чтобы создать ветку, нужно вызвать команду git branch <название_ветки>
-- чтобы переключиться на ветку, нужна команда git checkout <название_ветки>
-
+- use command GIT BRANCH <branch name> in order to create a new branch
+- use command GIT CHECKOUT <branch name> to switch between branches 
+- use command GIT MERGE to merge two branches
